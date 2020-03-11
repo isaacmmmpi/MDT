@@ -33,7 +33,7 @@ Tips:
 
 Thanks for the C3d library file provided by [**mayswind**](https://github.com/mayswind).(I wrote to him personally, and he helped me solve the problem enthusiastically.Truly thanks a lot)
 
-Thanks for the video-to-post3d model developed by Facebook and the improvement of zh-plus.
+Thanks for the video-to-pose3d model developed by Facebook and the improvement of zh-plus.
 
 #### Agreement
 
